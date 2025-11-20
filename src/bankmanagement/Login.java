@@ -11,7 +11,7 @@ import java.io.IOException;
 
 public class Login extends JFrame implements ActionListener {
 	
-	JButton login,clear,signUp;					//declared globally to access outside constructor
+	JButton login,clear,signUp;					//declared globally to access outside constructor	//dont see to check branch
 	JTextField cardTextField;		//declared globally to access outside constructor
 	JPasswordField pinTextField;	//for not showing PIN
 	
