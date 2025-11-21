@@ -1,1 +1,32 @@
-/bin/
+# Eclipse specific files
+.project
+.classpath
+.settings/
+
+# Java
+*.class
+*.log
+
+# Maven
+target/
+
+# Gradle
+build/
+.gradle/
+
+# Mac / Windows / Linux junk
+.DS_Store
+Thumbs.db
+
+# IntelliJ Idea
+.idea/
+*.iml
+out/
+
+# STS
+.springBeans
+
+# Logs and temp
+*.tmp
+*.swp
+*.swo
